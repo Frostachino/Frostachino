@@ -20,15 +20,15 @@ My background is actually in **medicine**, which probably explains why I approac
 Most of my projects start as late-night experiments after work — usually fueled by curiosity, coffee, and a desire to understand how things work under the hood.
 Sometimes those experiments grow into real systems.
 
-One of those experiments became **SomiProject**.
+One of those experiments became **Somi Project**.
 
 ---
 
 ## Current Focus: SomiProject
 
-### Sovereign Operational Machines Intelligence
+### Sovereign Operational Machine Intelligence
 
-**SomiProject** is an open-source framework designed to run **privacy-first, locally-hosted AI agents and operational intelligence systems**.
+**SOMI** is an open-source framework designed to run **privacy-first, locally-hosted AI agents and operational intelligence systems**.
 
 The idea is simple:
 
