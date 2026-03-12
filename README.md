@@ -55,7 +55,7 @@ Recent improvements include:
 * Early groundwork for autonomous agent workflows
 
 **Repo:**
-https://github.com/YOUR_USERNAME/SomiProject
+https://github.com/Somi-Project/Somi
 
 **Project updates:**
 https://x.com/SomiProject
