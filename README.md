@@ -2,22 +2,6 @@
   <img src="https://pbs.twimg.com/profile_images/2030720375374450688/nu37Qpj4.jpg" width="140" alt="Frostachino">
   <h1>Hi I'm Frostachino</h1>
   <p>
-    <strong>AI Enthusiast, Independent Developer & M.D.</strong><br>
-    Exploring local AI, privacy-focused systems, and creative side projects ☕🥣
-  </p>
-
-  <p>
-    <a href="https://x.com/frostyflak3s">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
-    </a>
-    <!-- Add GitHub, LinkedIn, email, personal site links here when ready -->
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_images/2030720375374450688/nu37Qpj4.jpg" width="140" alt="Frostachino">
-  <h1>Hi I'm Frostachino</h1>
-  <p>
     <strong>AI Enthusiast • Independent Developer • Physician</strong><br>
     Exploring local AI systems, privacy-first infrastructure, and experimental tools ☕🥣
   </p>
