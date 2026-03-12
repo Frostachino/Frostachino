@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/2030720375374450688/nu37Qpj4.jpg" width="140" alt="Frostachino">
-  <h1>Hi I'm David</h1>
+  <h1>Hi I'm Frostachino</h1>
   <p>
-    <strong>AI Enthusiast & Independent Developer</strong><br>
+    <strong>AI Enthusiast, Independent Developer & M.D.</strong><br>
     Exploring local AI, privacy-focused systems, and creative side projects ☕🥣
   </p>
 
