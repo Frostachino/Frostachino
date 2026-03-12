@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://pbs.twimg.com/profile_images/2030720375374450688/nu37Qpj4.jpg](https://media1.tenor.com/m/CsiZykgeJ9wAAAAd/meow-dancing-cat.gif]" width="140" alt="Frostachino">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqs5Xy1ghZA-TEBZrlJUNEI-KIw7hicc48A&s" width="140" alt="Frostachino">
   <h1>Hi I'm Frostachino</h1>
   <p>
     <strong>AI Enthusiast • Independent Developer • Physician</strong><br>
