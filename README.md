@@ -13,7 +13,7 @@
   </p>
 </div>
 
-I’m a self-taught developer who spends a lot of time experimenting with **local AI, sovereign infrastructure, and tools that run entirely under the user's control**.
+I’m a developer who spends a lot of time experimenting with **local AI, sovereign infrastructure, and tools that run entirely under the user's control**.
 
 My background is actually in **medicine**, which probably explains why I approach software the way I do — systems thinking, diagnostics, and a bias toward building tools that *work reliably in real-world conditions*.
 
