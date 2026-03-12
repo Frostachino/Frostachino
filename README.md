@@ -14,45 +14,140 @@
   </p>
 </div>
 
-## About Me
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/2030720375374450688/nu37Qpj4.jpg" width="140" alt="Frostachino">
+  <h1>Hi I'm Frostachino</h1>
+  <p>
+    <strong>AI Enthusiast • Independent Developer • Physician</strong><br>
+    Exploring local AI systems, privacy-first infrastructure, and experimental tools ☕🥣
+  </p>
 
-I'm a self-taught developer passionate about **AI**, **local/self-hosted infrastructure**, and building tools that prioritize user control, privacy, and offline capability.
+  <p>
+    <a href="https://x.com/frostyflak3s">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    </a>
+  </p>
+</div>
 
-Most of my work starts as experiments born out of curiosity (or boredom). One of those experiments became **SomiProject** — a personal framework I'm actively developing to run intelligent, sovereign AI systems locally.
+I’m a self-taught developer who spends a lot of time experimenting with **local AI, sovereign infrastructure, and tools that run entirely under the user's control**.
 
-When I'm not coding, you'll find me fueled by coffee, hanging out with my cat, and staying curious about emerging tech.
+My background is actually in **medicine**, which probably explains why I approach software the way I do — systems thinking, diagnostics, and a bias toward building tools that *work reliably in real-world conditions*.
 
-## Current Focus: SomiProject (Sovereign Operational Machines Intelligence)
+Most of my projects start as late-night experiments after work — usually fueled by curiosity, coffee, and a desire to understand how things work under the hood.
+Sometimes those experiments grow into real systems.
 
-SomiProject is an open-source framework for building and running **privacy-first, locally-hosted AI agents and operational intelligence systems**.
+One of those experiments became **SomiProject**.
+
+---
+
+## Current Focus: SomiProject
+
+### Sovereign Operational Machines Intelligence
+
+**SomiProject** is an open-source framework designed to run **privacy-first, locally-hosted AI agents and operational intelligence systems**.
+
+The idea is simple:
+
+> Your AI should run **for you, on your machine, under your control.**
 
 Key goals:
-- Full offline / self-hosted operation (no cloud dependency)
-- Emphasis on data sovereignty and user control
-- Modular architecture for agents, tools, memory, and workflows
-- Inspired by recent trends in sovereign AI architectures (e.g., reference designs from NVIDIA/Palantir discussions)
 
-Why I started it: I wanted a flexible, personal playground to experiment with the latest open models, long-context handling, and agentic patterns — without relying on external APIs or giving up control.
+* Fully **offline / self-hosted capable**
+* Designed for **data sovereignty and privacy**
+* Modular architecture for **agents, tools, memory, and workflows**
+* Compatible with modern **local LLM ecosystems**
+* Built as a **research playground** for agentic systems and long-context reasoning
 
-**Status:** Actively in development (v0.9x range). Recent updates include improved web integration, model compatibility, and architectural refinements. First public repo milestone: 10+ stars 🎉 — thank you to everyone who supported!
+The project is heavily inspired by the emerging **sovereign AI movement** — where individuals and organizations operate AI systems locally rather than through centralized platforms.
 
-**Repo:** [https://github.com/YOUR_USERNAME/SomiProject](https://github.com/YOUR_USERNAME/SomiProject) *(replace with actual link)*  
-**X handle for updates:** [@SomiProject](https://x.com/SomiProject)
+**Status:**
+Actively evolving (currently in the v0.9x range). The architecture changes often because the project doubles as a **learning laboratory** for new models, memory systems, and tool orchestration patterns.
 
-Contributions, issues, stars, and feedback are very welcome — especially if you're into decentralized AI, local LLMs, or privacy tech.
+Recent improvements include:
 
-## Tech Interests & Stack
+* Expanded web and research integration
+* Better model compatibility with modern local LLMs
+* Internal architectural cleanup and modularization
+* Early groundwork for autonomous agent workflows
 
-- **AI / ML**: Local LLMs (Qwen, Llama, etc.), agent frameworks, multi-agent systems, long-context & memory management
-- **Languages & Tools**: Python (core), experimenting with Rust/Go for performance-critical parts
-- **Infrastructure**: Self-hosting, Docker/containerization, offline-first design
-- **Philosophy**: Build for sovereignty, resilience, and fun — reduce SaaS lock-in wherever possible
+**Repo:**
+https://github.com/YOUR_USERNAME/SomiProject
+
+**Project updates:**
+https://x.com/SomiProject
+
+Stars, issues, ideas, and technical discussions are always welcome.
+
+---
+
+## Tech Interests
+
+Areas I enjoy exploring:
+
+**AI Systems**
+
+* Local LLM deployment (Qwen, Llama, etc.)
+* Agent frameworks and orchestration
+* Long-context reasoning
+* AI memory architectures
+
+**Software**
+
+* Python (primary language)
+* Rust / Go experimentation for performance-critical pieces
+* System design and modular architectures
+
+**Infrastructure**
+
+* Self-hosted environments
+* Docker and containerized AI stacks
+* Offline-first systems
+
+**Philosophy**
+
+* Minimize SaaS dependence
+* Build systems that remain useful **even without internet access**
+* Keep things transparent and hackable
+
+---
+
+## A Few Random Things About Me
+
+* Most development happens **late at night with coffee nearby**
+* I enjoy understanding systems from **first principles**
+* My projects are usually **experiments that spiral into full frameworks**
+* I tend to build tools I wish existed for my own workflows
+* Occasionally assisted by a curious cat who likes sitting on keyboards
+
+---
 
 ## Let's Connect
 
-- **X / Twitter**: [@frostyflak3s](https://x.com/frostyflak3s) — most active here for quick thoughts, AI links, and project updates
-- **GitHub**: Feel free to star/follow repos or open discussions/PRs
-- Open to: Collaborations on local AI tools, feedback on SomiProject, or just geeking out over new models
+**X / Twitter**
+https://x.com/frostyflak3s
+
+Where I usually share:
+
+* AI papers and experiments
+* updates on SomiProject
+* thoughts on local AI and sovereign systems
+
+
+Feel free to:
+
+* star repositories
+* open issues
+* suggest improvements
+* contribute ideas
+
+I especially enjoy discussions around **local AI architectures and experimental agent systems**.
+
+---
+
+<div align="center">
+  <i>Building one commit at a time — powered by caffeine, curiosity, and the occasional debugging spiral ☕</i>
+</div>
+
 
 <div align="center">
   <i>Building one commit at a time — powered by caffeine and curiosity 🥣☕</i>
