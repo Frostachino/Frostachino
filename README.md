@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/VOF2f46sLQkAAAAd/tenor.gif" width="140" alt="Frostachino">
   <h1>Hi I'm Frostachino</h1>
   <p>
-    <strong>AI Enthusiast • Independent Developer • Physician</strong><br>
+    <strong>AI Enthusiast • Independent Developer • Classfied ops</strong><br>
     Exploring local AI systems, privacy-first infrastructure, and experimental tools ☕🥣
   </p>
 
@@ -15,7 +15,7 @@
 
 I’m a developer who spends a lot of time experimenting with **local AI, sovereign infrastructure, and tools that run entirely under the user's control**.
 
-My background is actually in **medicine**, which probably explains why I approach software the way I do — systems thinking, diagnostics, and a bias toward building tools that *work reliably in real-world conditions*.
+My background is actually in **classified**, which probably explains why I approach software the way I do — systems thinking, diagnostics, and a bias toward building tools that *work reliably in real-world conditions*.
 
 Most of my projects start as late-night experiments after work — usually fueled by curiosity, coffee, and a desire to understand how things work under the hood.
 Sometimes those experiments grow into real systems.
